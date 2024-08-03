@@ -1,4 +1,4 @@
-Meu Website Pessoal
+
 Bem-vindo ao meu website pessoal! 🌟
 
 Este é um projeto de landing page que foi desenvolvido para servir como meu linktree online. O site foi criado usando HTML, CSS e JavaScript, com foco em apresentar de forma clara e atraente minhas habilidades e projetos.
